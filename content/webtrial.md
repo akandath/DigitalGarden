@@ -4,4 +4,4 @@ draft: false
 tags:
 ---
 
-This is just me trying cool things
+This is just me trying cool things![[pp.jpg]]
