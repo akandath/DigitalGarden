@@ -1,6 +1,5 @@
 ---
-title: Ashwin's Digital Garden
-cssclasses:
+title: Welcome!
 ---
 
 Stay tuned...\
